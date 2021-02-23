@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+# Rafael Bruno
+
+## Olá pessoal 👋
+
+Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais ou de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
+
+ :rocket:  &nbsp; Estudante de Análise e Desenvolvimento de Sistema.
+ <br/> :computer: &nbsp; Minha stack: Python, Django, Node.js & Typescript
+ <br/> Entre em contato comigo:
+ <br/> :email: &nbsp; https://www.linkedin.com/in/rafarbop/
+ <br/> :email: &nbsp; rafarbop@gmail.com
+
+
 <!--
 **rafarbop/rafarbop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
