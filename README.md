@@ -5,7 +5,7 @@
 Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais ou de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
 
  :rocket:  &nbsp; Estudante de Análise e Desenvolvimento de Sistema.
- <br/> :computer: &nbsp; Minha stack: Python, Django, Node.js & Typescript
+ <br/> :computer: &nbsp; Minha stack: Python, Django, Firebase.
  <br/> Entre em contato comigo:
  <br/> :email: &nbsp; https://www.linkedin.com/in/rafarbop/
  <br/> :email: &nbsp; rafarbop@gmail.com
