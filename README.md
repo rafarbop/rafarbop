@@ -1,6 +1,6 @@
 # Rafael Bruno
 
-## Olá pessoal 👋
+## Hi Folks! 👋
 
 Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais ou de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
 
