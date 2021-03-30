@@ -4,8 +4,7 @@
 
 Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais/de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
 
-
- :rocket:  &nbsp; Estudante de Análise e Desenvolvimento de Sistema.
+ 👨‍🎓  &nbsp; Estudante de Análise e Desenvolvimento de Sistema &nbsp; 👨‍🎓
  
  <br/> :computer: &nbsp; Minha stack: 
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> &nbsp; Python
