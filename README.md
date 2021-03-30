@@ -4,7 +4,9 @@
 
 Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais/de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
 
+
  :rocket:  &nbsp; Estudante de Análise e Desenvolvimento de Sistema.
+ 
  <br/> :computer: &nbsp; Minha stack: 
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> &nbsp; Python
  - <img src="https://github.com/rafarbop/rafarbop/blob/main/django-logo.png" alt="django" height="20"/> &nbsp; Django
@@ -12,6 +14,8 @@ Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais/de
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> &nbsp; JavaScript
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="20" height="20"/> &nbsp; HTML
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="20" height="20"/> &nbsp; CSS.
+
+
  <br/> Entre em contato comigo:
  <br/> 🔗 &nbsp; https://www.linkedin.com/in/rafarbop/
  <br/> 📫 &nbsp; rafarbop@gmail.com
