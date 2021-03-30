@@ -5,7 +5,13 @@
 Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais ou de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
 
  :rocket:  &nbsp; Estudante de Análise e Desenvolvimento de Sistema.
- <br/> :computer: &nbsp; Minha stack: Python, Django, Flask, JavaScript, HTML, CSS.
+ <br/> :computer: &nbsp; Minha stack: 
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
+ - Django
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> Flask
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="20" height="20"/> HTML
+ - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="20" height="20"/> CSS.
  <br/> Entre em contato comigo:
  <br/> :email: &nbsp; https://www.linkedin.com/in/rafarbop/
  <br/> :email: &nbsp; rafarbop@gmail.com
