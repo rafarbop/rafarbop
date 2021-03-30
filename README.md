@@ -1,6 +1,6 @@
 # Rafael Bruno
 
-## Hi Folks! 👋
+## Hi Folks! <img src="https://github.com/rafarbop/rafarbop/blob/main/hi.gif" width="30px">
 
 Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais ou de estudo e esperando a oportunidade de adquirir experiência profissional na área de desenvolvedor. 
 
