@@ -6,7 +6,7 @@ Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais/de
 
  👨‍🎓  &nbsp; Estudante de Análise e Desenvolvimento de Sistema &nbsp; 👨‍🎓
  
- <br/> :computer: &nbsp; Minha stack: 
+ :computer: &nbsp; Minha stack: 
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> &nbsp; Python
  - <img src="https://github.com/rafarbop/rafarbop/blob/main/django-logo.png" alt="django" height="20"/> &nbsp; Django
  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> &nbsp; Flask
