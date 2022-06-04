@@ -2,21 +2,26 @@
 
 ## Hi Folks! <img src="https://github.com/rafarbop/rafarbop/blob/main/hi.gif" width="30px">
 
-Sempre buscando atualizar e aprimorar meus conhecimento com projetos pessoais/de estudo e adquiririndo experiência na área de desenvolvedor e na área de ciência de dados. 
+Entusiasmado por desenvolvimento e fascinado pela área de Dados. 
 
  👨‍🎓  &nbsp; Estudante de Análise e Desenvolvimento de Sistema &nbsp; 👨‍🎓
  
- :computer: &nbsp; Minha stack: 
- -  Python - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
- -  Pandas - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/>
- -  MySQL e PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" /> - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"  />
+ :computer: &nbsp; Minha stack:
+ - Python
+ - Pandas - PySpark
+ - SQL 
 
 Conhecimentos em:
  - Tratamento e visualização de dados com bibliotecas Python: Pandas, Numpy, Matplotlib, Seaborn , Streamlit
  - SGBD Relacionais SQlite, MySQL, PostgreSQL e Não Relacional Firebase Realtime Database
- - Deploys de Aplicações e Serviços com AWS Elastic Beanstalk, Heroku, Firebase Hosting, GitHub Pages
- - Docker
- - Django. Flask e FastApi
+ - Versionamento de Código com Git, GitHub e Gitlab
+ - Deploys de Aplicações e Serviços com AWS Elastic Beanstalk, Heroku, Firebase Hosting, GitHub Pages, Streamlit
+ - CI/CD com GitLab CI/CD
+ - GCP Storage, Compute Engine, DataProc, BigQuery
+ - Docker e Docker Compose
+ - Apache AirFlow
+ - Django, Flask e FastApi
+ - MySQL e PostgreSQL
  - Sistemas Linux e shell script(BASH/FISH)
  - HTML, CSS e JavaScript
 
