@@ -2,14 +2,16 @@
 
 ## Hi Folks! <img src="https://github.com/rafarbop/rafarbop/blob/main/hi.gif" width="30px">
 
-Entusiasmado por desenvolvimento e fascinado pela área de Dados. 
+Fascinado pela área de Dados. 
 
- 👨‍🎓  &nbsp; Estudante de Análise e Desenvolvimento de Sistema &nbsp; 👨‍🎓
+ 👨‍🎓  &nbsp; Engenheiro de Dados &nbsp; 👨‍🎓
  
  :computer: &nbsp; Minha stack:
  - Python
  - Pandas - PySpark
- - SQL 
+ - SQL
+ - Cloud GCP: Storage, Compute Engine, DataProc, BigQuery
+ - Cloud AWS: S3, AWS RDS, DynamoDB, Glue Jobs, Athena
 
 Conhecimentos em:
  - Tratamento e visualização de dados com bibliotecas Python: Pandas, Numpy, Matplotlib, Seaborn , Streamlit
@@ -17,7 +19,6 @@ Conhecimentos em:
  - Versionamento de Código com Git, GitHub e Gitlab
  - Deploys de Aplicações e Serviços com AWS Elastic Beanstalk, Heroku, Firebase Hosting, GitHub Pages, Streamlit
  - CI/CD com GitLab CI/CD
- - GCP Storage, Compute Engine, DataProc, BigQuery
  - Docker e Docker Compose
  - Apache AirFlow
  - Django, Flask e FastApi
