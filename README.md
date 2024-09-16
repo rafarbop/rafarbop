@@ -8,10 +8,11 @@ Fascinado pela área de Dados.
  
  :computer: &nbsp; Minha stack:
  - Python
- - Pandas - PySpark
+ - PySpark
  - SQL
- - Cloud GCP: Storage, Compute Engine, DataProc, BigQuery
+ - Cloud GCP: Storage, Compute Engine, DataProc, BigQuery, Cloud Runs
  - Cloud AWS: S3, AWS RDS, DynamoDB, Glue Jobs, Athena
+ - Databricks
 
 Conhecimentos em:
  - Tratamento e visualização de dados com bibliotecas Python: Pandas, Numpy, Matplotlib, Seaborn , Streamlit
