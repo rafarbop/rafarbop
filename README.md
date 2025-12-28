@@ -10,13 +10,15 @@ Fascinado pela área de Dados.
  - Python
  - PySpark
  - SQL
- - Cloud GCP: Storage, Compute Engine, DataProc, BigQuery, Cloud Runs
- - Cloud AWS: S3, AWS RDS, DynamoDB, Glue Jobs, Athena
- - Databricks
+ - Databricks: Unity Catalog, Delta Live Tables, Workflows
+
+☁️: Clouds:
+ - GCP: Storage, Compute Engine, DataProc, BigQuery, Cloud Runs
+ - AWS: S3, AWS RDS, DynamoDB, Glue Jobs, Athena
 
 Conhecimentos em:
  - Tratamento e visualização de dados com bibliotecas Python: Pandas, Numpy, Matplotlib, Seaborn , Streamlit
- - SGBD Relacionais SQlite, MySQL, PostgreSQL e Não Relacional Firebase Realtime Database
+ - SGBD Relacionais SQlite, MySQL, PostgreSQL
  - Versionamento de Código com Git, GitHub e Gitlab
  - Deploys de Aplicações e Serviços com AWS Elastic Beanstalk, Heroku, Firebase Hosting, GitHub Pages, Streamlit
  - CI/CD com GitLab CI/CD
